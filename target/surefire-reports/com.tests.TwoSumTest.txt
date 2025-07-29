@@ -1,0 +1,54 @@
+-------------------------------------------------------------------------------
+Test set: com.tests.TwoSumTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 10, Errors: 0, Skipped: 0, Time elapsed: 0.001 s <<< FAILURE! - in com.tests.TwoSumTest
+test10(com.tests.TwoSumTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected:<2> but was:<0>
+	at com.tests.TwoSumTest.assertArrayEqualsAnyOrder(TwoSumTest.java:11)
+	at com.tests.TwoSumTest.test10(TwoSumTest.java:26)
+
+test1(com.tests.TwoSumTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected:<2> but was:<0>
+	at com.tests.TwoSumTest.assertArrayEqualsAnyOrder(TwoSumTest.java:11)
+	at com.tests.TwoSumTest.test1(TwoSumTest.java:17)
+
+test2(com.tests.TwoSumTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected:<2> but was:<0>
+	at com.tests.TwoSumTest.assertArrayEqualsAnyOrder(TwoSumTest.java:11)
+	at com.tests.TwoSumTest.test2(TwoSumTest.java:18)
+
+test3(com.tests.TwoSumTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected:<2> but was:<0>
+	at com.tests.TwoSumTest.assertArrayEqualsAnyOrder(TwoSumTest.java:11)
+	at com.tests.TwoSumTest.test3(TwoSumTest.java:19)
+
+test4(com.tests.TwoSumTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected:<2> but was:<0>
+	at com.tests.TwoSumTest.assertArrayEqualsAnyOrder(TwoSumTest.java:11)
+	at com.tests.TwoSumTest.test4(TwoSumTest.java:20)
+
+test5(com.tests.TwoSumTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected:<2> but was:<0>
+	at com.tests.TwoSumTest.assertArrayEqualsAnyOrder(TwoSumTest.java:11)
+	at com.tests.TwoSumTest.test5(TwoSumTest.java:21)
+
+test6(com.tests.TwoSumTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected:<2> but was:<0>
+	at com.tests.TwoSumTest.assertArrayEqualsAnyOrder(TwoSumTest.java:11)
+	at com.tests.TwoSumTest.test6(TwoSumTest.java:22)
+
+test7(com.tests.TwoSumTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected:<2> but was:<0>
+	at com.tests.TwoSumTest.assertArrayEqualsAnyOrder(TwoSumTest.java:11)
+	at com.tests.TwoSumTest.test7(TwoSumTest.java:23)
+
+test8(com.tests.TwoSumTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected:<2> but was:<0>
+	at com.tests.TwoSumTest.assertArrayEqualsAnyOrder(TwoSumTest.java:11)
+	at com.tests.TwoSumTest.test8(TwoSumTest.java:24)
+
+test9(com.tests.TwoSumTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected:<2> but was:<0>
+	at com.tests.TwoSumTest.assertArrayEqualsAnyOrder(TwoSumTest.java:11)
+	at com.tests.TwoSumTest.test9(TwoSumTest.java:25)
+
