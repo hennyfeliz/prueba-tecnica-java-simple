@@ -1,0 +1,40 @@
+-------------------------------------------------------------------------------
+Test set: com.tests.SimpleArrSumTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 9, Errors: 0, Skipped: 0, Time elapsed: 0.002 s <<< FAILURE! - in com.tests.SimpleArrSumTest
+test10(com.tests.SimpleArrSumTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected:<-5> but was:<1>
+	at com.tests.SimpleArrSumTest.test10(SimpleArrSumTest.java:18)
+
+test1(com.tests.SimpleArrSumTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected:<15> but was:<1>
+	at com.tests.SimpleArrSumTest.test1(SimpleArrSumTest.java:9)
+
+test2(com.tests.SimpleArrSumTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected:<0> but was:<1>
+	at com.tests.SimpleArrSumTest.test2(SimpleArrSumTest.java:10)
+
+test3(com.tests.SimpleArrSumTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected:<5> but was:<1>
+	at com.tests.SimpleArrSumTest.test3(SimpleArrSumTest.java:11)
+
+test4(com.tests.SimpleArrSumTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected:<-6> but was:<1>
+	at com.tests.SimpleArrSumTest.test4(SimpleArrSumTest.java:12)
+
+test5(com.tests.SimpleArrSumTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected:<100> but was:<1>
+	at com.tests.SimpleArrSumTest.test5(SimpleArrSumTest.java:13)
+
+test7(com.tests.SimpleArrSumTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected:<9999> but was:<1>
+	at com.tests.SimpleArrSumTest.test7(SimpleArrSumTest.java:15)
+
+test8(com.tests.SimpleArrSumTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected:<0> but was:<1>
+	at com.tests.SimpleArrSumTest.test8(SimpleArrSumTest.java:16)
+
+test9(com.tests.SimpleArrSumTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected:<100000> but was:<1>
+	at com.tests.SimpleArrSumTest.test9(SimpleArrSumTest.java:17)
+

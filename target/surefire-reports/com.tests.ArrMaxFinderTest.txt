@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------
+Test set: com.tests.ArrMaxFinderTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 5, Errors: 0, Skipped: 0, Time elapsed: 0.021 s <<< FAILURE! - in com.tests.ArrMaxFinderTest
+test1(com.tests.ArrMaxFinderTest)  Time elapsed: 0.006 s  <<< FAILURE!
+java.lang.AssertionError: expected:<5> but was:<1>
+	at com.tests.ArrMaxFinderTest.test1(ArrMaxFinderTest.java:9)
+
+test2(com.tests.ArrMaxFinderTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected:<100> but was:<1>
+	at com.tests.ArrMaxFinderTest.test2(ArrMaxFinderTest.java:10)
+
+test3(com.tests.ArrMaxFinderTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected:<-1> but was:<1>
+	at com.tests.ArrMaxFinderTest.test3(ArrMaxFinderTest.java:11)
+
+test4(com.tests.ArrMaxFinderTest)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.AssertionError: expected:<0> but was:<1>
+	at com.tests.ArrMaxFinderTest.test4(ArrMaxFinderTest.java:12)
+
+test5(com.tests.ArrMaxFinderTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected:<999> but was:<1>
+	at com.tests.ArrMaxFinderTest.test5(ArrMaxFinderTest.java:13)
+
