@@ -1,1 +1,0 @@
-# prueba-tecnica-java-simple
